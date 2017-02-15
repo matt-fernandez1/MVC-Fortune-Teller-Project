@@ -35,6 +35,9 @@ namespace fortune_teller_mvc.Controllers
             return View(customerID);
         }
 
+        ViewBag RetirementAge
+            
+
         // GET: CustomerIDs/Create
         public ActionResult Create()
         {
